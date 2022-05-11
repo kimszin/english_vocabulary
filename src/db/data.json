@@ -1,0 +1,150 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "id": 4,
+      "day": 4
+    },
+    {
+      "id": 5,
+      "day": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    },
+    {
+      "day": 8,
+      "id": 8
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "day": 2,
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "fineapple",
+      "kor": "파인애플",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "phone",
+      "kor": "핸드폰",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "day": 4,
+      "eng": "coffee",
+      "kor": "커피",
+      "isDone": true
+    },
+    {
+      "id": 9,
+      "day": 5,
+      "eng": "tea",
+      "kor": "차",
+      "isDone": false
+    },
+    {
+      "id": 10,
+      "day": 5,
+      "eng": "pen",
+      "kor": "펜",
+      "isDone": true
+    },
+    {
+      "day": "1",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": true,
+      "id": 11
+    },
+    {
+      "day": "2",
+      "eng": "nose",
+      "kor": "코",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "6",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "6",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "7",
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "8",
+      "eng": "korea",
+      "kor": "한국",
+      "isDone": true,
+      "id": 16
+    },
+    {
+      "day": "4",
+      "eng": "smart",
+      "kor": "영리한",
+      "isDone": false,
+      "id": 17
+    }
+  ]
+}
