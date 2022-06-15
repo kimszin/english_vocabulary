@@ -31,6 +31,10 @@
     {
       "day": 8,
       "id": 8
+    },
+    {
+      "day": 9,
+      "id": 9
     }
   ],
   "words": [
@@ -131,13 +135,6 @@
       "kor": "학교",
       "isDone": false,
       "id": 15
-    },
-    {
-      "day": "8",
-      "eng": "korea",
-      "kor": "한국",
-      "isDone": true,
-      "id": 16
     },
     {
       "day": "4",
