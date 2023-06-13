@@ -5,8 +5,8 @@
 
 ```
 // json-server 먼저 설치/실행
-1. 설치 : npm install -g json-server
-2. 실행 : json-server --watch ./src/db/data.json --port 3001 (포트는 프로젝트 포트랑 다르게만 해주면 됨)
+npm install -g json-server
+json-server --watch ./src/db/data.json --port 3001 (포트는 프로젝트 포트랑 다르게만 해주면 됨)
 
 npm install
 npm start
